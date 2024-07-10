@@ -13,9 +13,9 @@ Trying to solve set of problems from entrance tests for seosan companyes camps
     </thead>
     <tbody>
     <tr>
-        <th>Название</th>
-        <th>Профиль</th>
-        <th>Задания</th>
+        <th>Tinkoff</th>
+        <th>Java-разработка</th>
+        <th>Экзамен по программированию()</th>
         <th>Для подготоки</th>
     </tr>
     <tr>
@@ -33,8 +33,10 @@ Trying to solve set of problems from entrance tests for seosan companyes camps
     </tbody>
 </table>
 <h2>1) Tinkoff academy</h2>
-
+<img src="./img/Tinkoff.png">
 <h2>2) Ozon tech</h2>
 
 <h2>3) HH academy</h2>
+
+<h2>4) MTC academy</h2>
 
