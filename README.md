@@ -32,4 +32,9 @@ Trying to solve set of problems from entrance tests for seosan companyes camps
     </tr>
     </tbody>
 </table>
-<h2></h2>
+<h2>1) Tinkoff academy</h2>
+
+<h2>2) Ozon tech</h2>
+
+<h2>3) HH academy</h2>
+
