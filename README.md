@@ -1,4 +1,4 @@
-# preparationForTinkoffOzontechHHAcademy
+<h1>Preparation for boot camps</h1>
 Trying to solve set of problems from entrance tests for seosan companyes camps
 
 <h2>Main aims of preparation</h2>
