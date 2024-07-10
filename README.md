@@ -12,6 +12,24 @@ Trying to solve set of problems from entrance tests for seosan companyes camps
     </tr>
     </thead>
     <tbody>
-    </tbode>
+    <tr>
+        <th>Название</th>
+        <th>Профиль</th>
+        <th>Задания</th>
+        <th>Для подготоки</th>
+    </tr>
+    <tr>
+        <th>Название</th>
+        <th>Профиль</th>
+        <th>Задания</th>
+        <th>Для подготоки</th>
+    </tr>
+    <tr>
+        <th>Название</th>
+        <th>Профиль</th>
+        <th>Задания</th>
+        <th>Для подготоки</th>
+    </tr>
+    </tbody>
 </table>
 <h2></h2>
