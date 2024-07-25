@@ -37,10 +37,10 @@ Trying to solve set of problems from entrance tests for seosan companyes camps
             <th>Нужен 1 год опыта, математика и алгоритмы</th>
         </tr>
         <tr>
-            <th>Aкадемия больших данных</th>
+            <th>ШАД</th>
             <th>Анализ данных</th>
             <th>Математика и алгоритмы</th>
-            <th>Нужен 1 год опыта, математика и алгоритмы</th>
+            <th>Трех-этапный отбор, математика, алгоритмы, интервью</th>
         </tr>
         </tbody>
     </table>
