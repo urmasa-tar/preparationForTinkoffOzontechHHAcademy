@@ -75,6 +75,6 @@ Trying to solve set of problems from entrance tests for seosan companyes camps
     
 
 <h2>4) MTC academy</h2>
-
+<img src="./img/mtc.png">
 <h2>5) Шифт CFT</h2>
 
