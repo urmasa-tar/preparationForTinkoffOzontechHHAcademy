@@ -61,7 +61,7 @@ Trying to solve set of problems from entrance tests for seosan companyes camps
     <p>Этап откроется для успешно решивших задания первого этапа</p>
     <br>
     <br>
-
+    <img src="./img/tink_first.png">
 
 <h2>2) Ozon tech</h2>
     <img src="./img/ozonTech.png">
