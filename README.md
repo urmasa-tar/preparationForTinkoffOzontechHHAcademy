@@ -71,10 +71,11 @@ Trying to solve set of problems from entrance tests for seosan companyes camps
     <img src="./img/ozonHow.png">
 
 <h2>3) HH academy</h2>
+    <img src="./img/hh_Academy.png">
     <h3>Два набора, на два потока, по front и beckend разработке</h3>
     
 
 <h2>4) MTC academy</h2>
 <img src="./img/mtc.png">
 <h2>5) Шифт CFT</h2>
-
+<img src="./img/CFTJava.png">
