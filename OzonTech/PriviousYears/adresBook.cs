@@ -15,7 +15,7 @@ namespace PriviousYears
             using var input = new StreamReader(Console.OpenStandardInput());
             Dictionary<string, List<string>> dicCallNumByName = new Dictionary<string, List<string>>();
 
-            // O(n^2)
+            // O()
             for(int i = 0; i < n; i++)
             {
                 var st_row = input.ReadToEnd().Split(' ');
@@ -29,6 +29,8 @@ namespace PriviousYears
                     {
                         if(st == personNumb)
                         {
+                            // Добавить удаление по номеру
+
                             will = false;
                             break;
                         }
